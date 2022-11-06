@@ -10,10 +10,10 @@ value.
 For example, suppose your program is passed the integers
 90 81 78 95 79 72 85
 
-The program will report<br>
-The average value is 82<br>
-The minimum value is 72<br>
-The maximum value is 95<br>
+>The program will report<br>
+>The average value is 82<br>
+>The minimum value is 72<br>
+>The maximum value is 95<br>
 
 The variables representing the average, minimum, and maximum values
 will be stored globally. The worker threads will set these values, and
