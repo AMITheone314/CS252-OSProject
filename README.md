@@ -55,5 +55,16 @@ The threads are used to carry out aforementioned work.
 
 ![Test Case Problem 2](SS2.jpg)
 
+The C Program:
+1. https://gist.github.com/Jabiribn/e58bf13c678953891900e5f982b48037
+2. https://stackoverflow.com/questions/26090901/find-prime-numbers-in-a-separate-thread
+
+The PThread Data Types & Functions:
+1. https://man7.org/linux/man-pages/man3/pthread_create.3.html
+2. https://www.ibm.com/docs/en/zos/2.3.0?topic=functions-pthread-create-create-thread#ptcrea
+3. https://man7.org/linux/man-pages/man3/pthread_join.3.html
+4. https://www.ibm.com/docs/en/zos/2.3.0?topic=functions-pthread-join-wait-thread-end
+5. http://www.qnx.com/developers/docs/qnxcar2/index.jsp?topic=%2Fcom.qnx.doc.neutrino.getting_started%2Ftopic%2Fs1_procs_thread_attr.html
+
 
 
