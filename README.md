@@ -24,8 +24,6 @@ deviation.)
 
 ## Solution
 
-Global Variables: As mentioned in the question we have to globally define average, minimum, and maximum values<br>
-
 First we define the global variables as asked in the question named average, maximum and minimum. <br>
 The other global variables used will be maximum size of an array, an array, count of an element, loop counter and an array nmed worker_threads of size three.<br>
 
@@ -35,4 +33,5 @@ We define 3 functions for start_routine namely thread_average, thread_minimum, t
 
 ## Screenshot of a test case:
 
+![Test Case Problem 1](SS1.jpg)
 
