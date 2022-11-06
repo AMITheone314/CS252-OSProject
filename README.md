@@ -53,5 +53,7 @@ The threads are used to carry out aforementioned work.
 
 ## Screenshot of a test case:
 
+![Test Case Problem 2](SS2.jpg)
+
 
 
