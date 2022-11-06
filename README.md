@@ -11,9 +11,9 @@ For example, suppose your program is passed the integers
 90 81 78 95 79 72 85
 
 >The program will report
-The average value is 82
-The minimum value is 72
-The maximum value is 95
+>The average value is 82
+>The minimum value is 72
+>The maximum value is 95
 
 The variables representing the average, minimum, andmaximum values
 will be stored globally. The worker threads will set these values, and
