@@ -35,3 +35,23 @@ We define 3 functions for start_routine namely thread_average, thread_minimum, t
 
 ![Test Case Problem 1](SS1.jpg)
 
+# 4.23 Writing a Multi-Threaded Program
+
+Write a multithreaded program that outputs prime numbers. This program
+should work as follows: The user will run the program and will
+enter a number on the command line. The program will then create a
+separate thread that outputs all the prime numbers less than or equal to
+the number entered by the user.
+
+## Solution
+
+We define global array whose maximum size is alredy given. A variable N is also declared globally whose value will be the number below which we want all prime numbers to be displayed as an output of the program. <br>
+
+Two functions named * *printprime* and * *print* are defined. Printprime function checks for prime numbers from 2 to given number and makes the array value corresponding to that index 1. Print function prints the prime numbers from 2 to that number.<br>
+
+The threads are used to carry out aforementioned work.  
+
+## Screenshot of a test case:
+
+
+
